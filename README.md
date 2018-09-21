@@ -4,10 +4,10 @@ Predicting the Titanic Dataset.
 
 Tasks performed on Titanic Dataset:
 
-Data Cleaning
+1.Data Cleaning
 
-Data Pre-Processing
+2.Data Pre-Processing
 
-Feature Engineering
+3.Feature Engineering
 
-Machine Learning Models applied:Logistic Regression
+4.Machine Learning Models applied:Logistic Regression
